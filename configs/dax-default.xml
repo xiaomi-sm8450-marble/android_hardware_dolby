@@ -1910,7 +1910,8 @@
       <virtual-bass-compressor-tuning value="0,0,-320,96,32,50,50"/>
     </data>
   </tuning>
-  <authorized_technologies sku_name="DAX3 Android" device="dax3_android" bundle="DAP MOBILE v1.3" format="2">
+  <authorized_technologies sku_name="DAX3 Android" device="dax3_android" bundle="DAP MOBILE v1.6">
     <global_setting virtual_bass_process="2"/>
+    <global_setting atmos_game_system_gain="0"/>
   </authorized_technologies>
 </device_data>

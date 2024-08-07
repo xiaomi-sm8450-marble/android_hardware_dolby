@@ -1,9 +1,9 @@
-OnePlus Dolby
+Sony Dolby
 ==============
 
 Getting Started
 ---------------
-For dolby media codecs to work add this line in your media codecs config (should be in vendor partition) :-
+For dolby media codecs to work add this line in your media codecs config (should be in vendor partition) and make sure your device supports c2 codecs. :-
 
 ```bash
 <Include href="media_codecs_dolby_audio.xml" />
