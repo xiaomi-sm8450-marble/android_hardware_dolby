@@ -24,6 +24,12 @@ PRODUCT_SOONG_NAMESPACES += \
 # Enable codec support
 AUDIO_FEATURE_ENABLED_DS2_DOLBY_DAP := true
 
+# Build codec2 packages
+PRODUCT_PACKAGES += \
+    libavservices_minijail.vendor \
+    libcodec2_hidl@1.2.vendor \
+    libcodec2_soft_common.vendor
+
 # SEPolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(DOLBY_PATH)/sepolicy/vendor
 
