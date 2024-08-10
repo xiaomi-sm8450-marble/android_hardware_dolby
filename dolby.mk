@@ -53,9 +53,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1
 
-# DaxUI and daxService
+# DolbyManager and daxService
 PRODUCT_PACKAGES += \
-    DaxUI \
+    DolbyManager \
     daxService
 
 # Proprietary blobs
