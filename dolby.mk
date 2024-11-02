@@ -21,9 +21,6 @@ DOLBY_PATH := hardware/dolby
 PRODUCT_SOONG_NAMESPACES += \
    $(DOLBY_PATH)
 
-# Enable codec support
-AUDIO_FEATURE_ENABLED_DS2_DOLBY_DAP := true
-
 # Build codec2 packages
 PRODUCT_PACKAGES += \
     libavservices_minijail.vendor \
