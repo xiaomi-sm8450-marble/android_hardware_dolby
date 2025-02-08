@@ -1,4 +1,4 @@
-Sony Dolby
+Xiaomi Dolby
 ==============
 
 Getting Started
@@ -41,5 +41,3 @@ DEVICE_MANIFEST_FILE +=
 
 The only change done above is changing := symbol to += so that manifest can't be overriden from device tree in BoardConfig makefile.
 
-At the end an example commit to properly implement it in your device tree could be :-
-https://github.com/Neoteric-OS/device_nothing_Pong/commit/cefa46567c04770e492351e51dd96cfae80e34fb
