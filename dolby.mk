@@ -50,9 +50,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1
 
-# DaxUI
+# DaxUI2
 PRODUCT_PACKAGES += \
-    DaxUI
+    DolbySound
 
 # Proprietary-files
 PRODUCT_COPY_FILES += \
