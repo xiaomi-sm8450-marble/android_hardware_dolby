@@ -46,7 +46,7 @@ PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1 \
     ro.audio.spatializer_enabled=true \
     ro.vendor.audio.dolby.dax.support=true \
-    ro.vendor.audio.dolby.surround.enable=true \
+    ro.vendor.audio.dolby.surround.enable=false \
     vendor.audio.dolby.ds2.enabled=false \
     vendor.audio.dolby.ds2.hardbypass=false
 
