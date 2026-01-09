@@ -1,4 +1,4 @@
-AOSPA Dolby
+Xiaomi Dolby
 ==============
 
 Getting Started
@@ -43,9 +43,10 @@ The only change done above is changing := symbol to += so that manifest can't be
 
 At the end an example commit to properly implement it in your device tree could be :-
 
-[**1**] https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/8ece9a976087ed03f1adb447d0ac2a3f5f1a0d3c
+[**1**] https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_sm8450-common/commit/99cd3a22127b1d9cca289f1c4cb30b838e9fab0c
 
-[**2**] https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/2bdd047bfb5f23bd02e6d4db601a97c27e1506f9
+[**2**] https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_sm8450-common/commit/0a46669e01c744ec623eaeaa5cc088f2bc222f0a
+
  
 #### Tip pick anyone for Reference:
           https://dumps.tadiphone.dev/dumps/xiaomi/vili/-/blob/missi_phone_global-user-14-UKQ1.231207.002-V816.0.5.0.UKDMIXM-release-keys/aosp-device-tree/proprietary-files.txt#L2072
@@ -59,3 +60,4 @@ At the end an example commit to properly implement it in your device tree could 
  * [**userariii**](https://github.com/userariii)
  * [**saku-bruh**](https://github.com/saku-bruh)
  * [**ahnet-69 · he/him**](https://github.com/ahnet-69)
+ * [**swiitchOFF**](https://github.com/swiitchOFF)
